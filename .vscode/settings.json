@@ -1,0 +1,9 @@
+{
+    // ファイルエクスプローラーや検索結果にも表示しない
+    "files.exclude": {
+        "data": false
+    },
+    "search.exclude": {
+        "data": true
+    },
+    }
