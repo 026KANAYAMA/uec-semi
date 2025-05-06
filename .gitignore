@@ -1,6 +1,7 @@
 # custom
 data/
 nohup.groovy
+*.pth
 
 
 # Byte-compiled / optimized / DLL files
