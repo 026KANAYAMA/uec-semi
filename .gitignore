@@ -2,7 +2,7 @@
 data/
 nohup.groovy
 *.pth
-
+kadai2/GoogleNews-vectors-negative300.bin
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
